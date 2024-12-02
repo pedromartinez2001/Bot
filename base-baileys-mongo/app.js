@@ -22,7 +22,7 @@ const opciones=[
 ]
 const hamburguesas=[]
 const local= 'Landderburger' 
-const ubicacion=addKeyword(EVENTS.LOCATION)
+const confirmacion=addKeyword(EVENTS.LOCATION)
 .addAction(async(ctx,{gotoFlow,state})=>{
     console.log(ctx);
     await state.update({message:ctx.message})
@@ -52,7 +52,7 @@ const ubicacion=addKeyword(EVENTS.LOCATION)
     }
     
 })
-const confirmacion= addKeyword(EVENTS.ACTION)
+const ubicacion= addKeyword(EVENTS.ACTION)
 .addAction(async(_,{flowDynamic})=>{
     const hamburguesa=hamburguesas.map(i=> i.name).join('\n')
     const total= hamburguesas.reduce((value, order)=>{return order.precio+value},0)
