@@ -1,0 +1,265 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '595994857628@s.whatsapp.net',
+    fromMe: false,
+    id: '501F5034C69DFC7EA4C38FA1625CB126',
+    participant: undefined
+  },
+  messageTimestamp: 1732659863,
+  pushName: 'Pedro Martinez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ole',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ole',
+  from: '595994857628'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c9c89e30-fc75-40a2-b8dc-20dade0dbc66',
+  keyword: 'key_000f7334-dd9c-4ae0-a7ce-81ba6d6935a5',
+  answer: '🙌 Hola bienvenido a Landderburger🍔✈️.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3545542bfd5d5ce3a3f176822ed3ff03'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_858c50cd-f589-4cf6-b4e9-38bd90217845',
+  keyword: 'ans_c9c89e30-fc75-40a2-b8dc-20dade0dbc66',
+  answer: 'Aquí puedes ordenar tu pedido.\n' +
+    'Elige el número de la opción que desees.\n' +
+    'Envia 1 si quieres hacer un pedido y retirarlo en el local.🏬\n' +
+    'Envia 2 si quieres hacer un pedido y recibirlo por delivery.🛵',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c809fa72aa23fa63a7901f6778674153'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '595994857628@s.whatsapp.net',
+    fromMe: false,
+    id: '7696239CF4AB559B5531BE38C37D0D50',
+    participant: undefined
+  },
+  messageTimestamp: 1732659867,
+  pushName: 'Pedro Martinez',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '595994857628'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '595994857628@s.whatsapp.net',
+    fromMe: false,
+    id: '58337DF5112F27F04F6E0A6BC7BF2774',
+    participant: undefined
+  },
+  messageTimestamp: 1732659871,
+  pushName: 'Pedro Martinez',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '595994857628'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6bf05312-6180-472f-864e-fab5e2c26d8f',
+  keyword: 'ans_82f7eb12-6823-40e0-a29b-357346db3228',
+  answer: 'Escribe la cantidad que quieres.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '5c401294b6efd4cf05590630609e06c5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '595994857628@s.whatsapp.net',
+    fromMe: false,
+    id: 'F54DCD2884512BA4B257812E807DB439',
+    participant: undefined
+  },
+  messageTimestamp: 1732659874,
+  pushName: 'Pedro Martinez',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '595994857628'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fa71befc-554c-4bf9-bf6d-5358e39d95d5',
+  keyword: 'ans_6bf05312-6180-472f-864e-fab5e2c26d8f',
+  answer: 'Escribe\n' +
+    '1- Si quieres pedir otra hamburguesa.\n' +
+    '2- Si quieres confirmar tu pedido.\n' +
+    '0- Si quieres cancelar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'bb52ae274ae9d57510326a780621d7c6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '595994857628@s.whatsapp.net',
+    fromMe: false,
+    id: '489D6120E49A08C952839788E0CA5C54',
+    participant: undefined
+  },
+  messageTimestamp: 1732659884,
+  pushName: 'Pedro Martinez',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '595994857628'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '595994857628@s.whatsapp.net',
+    fromMe: false,
+    id: 'F37F8BA00A2D874BCF16EA5E67BADE55',
+    participant: undefined
+  },
+  messageTimestamp: 1732659889,
+  pushName: 'Pedro Martinez',
+  broadcast: false,
+  message: Message {
+    locationMessage: LocationMessage {
+      degreesLatitude: -27.298212,
+      degreesLongitude: -55.8860736,
+      jpegThumbnail: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_location__55d5c490-b270-4e9f-9018-aebf207607c5',
+  from: '595994857628'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4b761262-553c-4a9c-aa51-ac6fd21c201d',
+  keyword: 'key_b9df4733-4fba-4844-8984-656d5a79651d',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'de7ccdd99130ffc8d5112248e5635bc3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b47fef09-f9b6-4db2-86ea-e17e0883eb68',
+  keyword: 'ans_4b761262-553c-4a9c-aa51-ac6fd21c201d',
+  answer: 'Escribe 1 para confirmar.\nEscribe 0 para cancelar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '1e0a389e3b8ab559f5bc7731473112af'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '595994857628@s.whatsapp.net',
+    fromMe: false,
+    id: '2A3B12ADC29221CE1D2600BCBDB48E70',
+    participant: undefined
+  },
+  messageTimestamp: 1732659902,
+  pushName: 'Pedro Martinez',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '595994857628'
+}
